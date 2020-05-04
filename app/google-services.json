@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "314125153376",
+    "firebase_url": "https://fire-base-auth-5c80a.firebaseio.com",
+    "project_id": "fire-base-auth-5c80a",
+    "storage_bucket": "fire-base-auth-5c80a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314125153376:android:2d4f83b5ba230ad2a53f05",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314125153376-ou62urrc4m0nanvmk30t1on9f1p46j64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP-VA5-FxIR0_xct4faLBfv7dsg6kr4qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314125153376-ou62urrc4m0nanvmk30t1on9f1p46j64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
